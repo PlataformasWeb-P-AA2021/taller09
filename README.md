@@ -29,8 +29,7 @@ Tareas:
 - Generar el modelo de la aplicación usando las entidades descritas.
 - Activar la interfaz de administración de la aplicación de Django.
 - Ingresar datos a las entidades.
-- Para la entidad Parroquia use un csv. Tome los datos siguiente y adapte un archivo csv.
-
+- Para la entidad Parroquia use un csv. Tome los datos siguiente y adapte un archivo csv:
 El Sagrario
 Sucre
 El Valle
